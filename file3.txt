@@ -1,3 +1,4 @@
 File 3
 
 New line is added
+feature2
